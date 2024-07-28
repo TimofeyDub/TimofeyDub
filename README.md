@@ -18,3 +18,4 @@ app.listen(port, () => {
 })
 
 ```
+https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg
