@@ -18,7 +18,7 @@ app.listen(port, () => {
 });
 
 ```
-<h1 alight="centr">My Stats</h1>
+<h1 text-alight="centr">My Stats</h1>
 <p>=============================================================================</p>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimofeyDub&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
