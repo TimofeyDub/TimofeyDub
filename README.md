@@ -1,21 +1,16 @@
 - 👋 Hi, I’m @TimofeyDub
-- 👀 I’m interested in back-end
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in Clang
+- 🌱 I’m currently learning Clang
 - 📫 How to reach me Discord: @t1m0nyt
 
-```js
+```c
 
-const express = require('express');
-const app = express();
-const port = 3000;
+#include <stdio.h>
 
-app.get('/', (req, res) => {
-  res.send('Welcome to my profile!');
-});
-
-app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
-});
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
 
 ```
 <h1>My Stats</h1>
