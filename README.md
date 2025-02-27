@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimofeyDub
-- 👀 I’m interested in Clang
-- 🌱 I’m currently learning Clang
+- 👀 I’m interested in PHP and C
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me Discord: @tmn_7t
 
 ```c
