@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimofeyDub
 - 👀 I’m interested in Clang
 - 🌱 I’m currently learning Clang
-- 📫 How to reach me Discord: @tmn7t
+- 📫 How to reach me Discord: @tmn_7t
 
 ```c
 
